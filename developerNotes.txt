@@ -1,0 +1,15 @@
+/*
+Username: GodAccount
+Password: specialcase
+#This account is used for testing purposes, mainly to see how raids work.
+#In order to check what happens when the user wins a raid, simply click until the raid boss's lp has been lowered to 0. 
+#An animation should occur of the boss dying to then showing a 'raid successful' screen.
+#To check the boss's attack, the game should wait 30 seconds or so until the animation happens, and the lp of the pet should decrease.
+#To test if the raid was unsuccessful, change pet to either 'Nibble' or 'Doge', by instantly killing the current 
+ pet through the button hidden in the tree when the pet heads outside.
+#Feel free to use as many totems as needed to revive any pets since there is a large amount of them.
+#After the 30 seconds are up, the pet's lp should drop to 0 and the screen should show 'raid unsuccessful'.
+
+#Pet automatically loses 1 energy, 1 happiness and gains 1 hunger every 3 seconds.
+#Totem - revives dead pet.
+*/
